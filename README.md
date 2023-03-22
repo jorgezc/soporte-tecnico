@@ -9,3 +9,7 @@ Finalmente si logra solucionar el problema cambia el estado del requerimiento en
 A parte de las validaciones, todavía le falta el poder emitir reportes.
 # Siguientes pasos
 Validar el login
+
+# Link Aplicación web con base de datos
+
+https://www.youtube.com/watch?v=H7tuBwZyBOg&list=PLSuKjujFoGJ0Q6SuZetgvcAhx-19MkbCp&index=3
