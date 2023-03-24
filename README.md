@@ -10,6 +10,6 @@ A parte de las validaciones, todavía le falta el poder emitir reportes.
 # Siguientes pasos
 Validar el login
 
-# Link como subir pagina con PHP + Base de datos (MYSQL) a xampp
+# Link como subir pagina con PHP + Base de datos MYSQL localmente a xampp
 
-En preparación
+https://youtu.be/hUpVBV6jgrY
