@@ -67,7 +67,7 @@
           <div class="card">
 
             <div class="card-body">
-              <p class="card-header"> <?php echo "#: ". $ocurrencia['idocurrencias'] ." - " .  date("d/m/Y", strtotime($ocurrencia['fecha'])); ?></p> 
+              <p class="card-header titulo"> <?php echo "#: ". $ocurrencia['idocurrencias'] ." - " .  date("d/m/Y", strtotime($ocurrencia['fecha'])); ?></p> 
               <p class="card-header">  <?php echo  $ocurrencia['nombre']; ?> </p>
             </div>
             <ul class="list-group list-group-flush">
